@@ -6,7 +6,7 @@ This repo contains the code to create and train models for pose prediction as de
 ------------
 Start by cloning this repositiory:
 ```
-git clone https://github.com/vita-epfl/pose-prediction-disentangled.git
+git clone https://github.com/Anmol1811/Pose-Prediction-Disentangled.git
 cd pose-prediction-disentangled
 ```
 Create a new conda environment (Python 3.7):
